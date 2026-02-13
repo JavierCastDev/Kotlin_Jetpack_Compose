@@ -6,13 +6,13 @@ plugins {
 android {
     namespace = "com.javiercast.kotlinjetpackcompose"
     compileSdk {
-        version = release(34)
+        version = release(36)
     }
 
     defaultConfig {
         applicationId = "com.javiercast.kotlinjetpackcompose"
         minSdk = 26
-        targetSdk = 34
+        targetSdk = 36
         versionCode = 1
         versionName = "1.0"
 
